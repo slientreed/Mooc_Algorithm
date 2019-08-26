@@ -1,0 +1,5 @@
+这一小节写了一个readGraph模板类函数，把文件的测试用例读入到程序中，根据文件中的数据生成图，从而进行使用
+
+同时在DenseGraph,SparseGraph文件中分别有写了show()函数，用来显示对应图的邻接表和邻接矩阵
+
+具体看ReadGraph.h文件和main.c文件
