@@ -1,0 +1,10 @@
+这是练习内容，根据上节内容编写了冒泡排序和希尔排序；
+
+冒泡排序比较简单，感觉算是比较优化的，不知道该怎么继续进行优化；
+
+希尔排序选取gap之后，进行简单插入排序；其中gap选取要注意，对时间复杂度有影响；
+
+参考：
+1.https://www.youtube.com/watch?v=yJjjkfnduiI
+2.https://www.cnblogs.com/chengxiao/p/6104371.html
+3.https://github.com/liuyubobobo/Play-with-Algorithms/blob/master/02-Sorting-Basic/Course%20Code%20(C%2B%2B)/Optional-03-Shell-Sort/main.cpp#L32
